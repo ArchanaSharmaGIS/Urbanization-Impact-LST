@@ -10,6 +10,7 @@
 - [Project Workflow](#Project-Workflow)
 - [Thematic Layer](#thematic-layer)
 - [Correlation between LST and NDVI](#Correlation-between-LST-and-NDVI)
+- [Land Use Land Cover](#land-use-land-cover)
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 ## Project Overview
@@ -47,10 +48,20 @@ GIS Mapping: Creates maps showing temperature variations.
 <img src="Images/NDVI2009.png" alt="Sample Screenshot" width="500">
 <img src="Images/NDVI2019.png" alt="Sample Screenshot" width="500">
 
+<img src="Images/LST1999.png" alt="Sample Screenshot" width="500">
+<img src="Images/LST2009.png" alt="Sample Screenshot" width="500">
+<img src="Images/LST2019.png" alt="Sample Screenshot" width="500">
+
 ## Correlation between LST and NDVI
 <img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
 <img src="Images/LST vs NDVI 2009.png" alt="Sample Screenshot" width="500">
 <img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
+
+## Land Use Land Cover
+<img src="Images/LULC1999.png" alt="Sample Screenshot" width="500">
+<img src="Images/LULC2009.png" alt="Sample Screenshot" width="500">
+<img src="Images/LULC2019.png" alt="Sample Screenshot" width="500">
+
 
 ## Result
 - The outputs include GeoTIFF maps of VCI, TCI, and VHI for the specified region. Below is an example interpretation:
