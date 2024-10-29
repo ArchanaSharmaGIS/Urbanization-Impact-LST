@@ -64,10 +64,11 @@ GIS Mapping: Creates maps showing temperature variations.
 
 
 ## Result
-- The outputs include GeoTIFF maps of VCI, TCI, and VHI for the specified region. Below is an example interpretation:
-- **VCI Map**: Darker colors indicate higher vegetation stress.
-- **TCI Map**: Higher TCI values correspond to lower temperature stress.
-- **VHI Map**: Combines VCI and TCI, with lower values indicating more severe drought conditions.
+This study provides insights into the effects of urbanization on LST in Nagpur over two decades. Below are some key findings:
+
+### Key Findings
+NDVI vs. LST Analysis: NDVI values have shown a decline in green vegetation, while LST has increased, correlating with the urban expansion in Nagpur.<br>
+Regression Analysis: The correlation between NDVI and LST highlights the impact of vegetation loss on urban temperatures.
 
 ### Sample Output:
 ![Sample VHI Map](output/sample_vhi_map.png)
