@@ -38,7 +38,8 @@ GIS Mapping: Creates maps showing temperature variations.
 
 
 ## Project Workflow
-<img src="Images/Workflow.png" alt="Sample Screenshot" width="500">
+
+![Workflow](Images/Workflow.png)
 
 ## Technologies Used
 - **Google Earth Engine**: For satellite data processing and geospatial analysis.
