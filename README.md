@@ -4,8 +4,8 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Motivation](#motivation)
-- [Features](#features)
+- [Objective](#objective)
+- [Data and Methods](#Data and methods)
 - [Use Cases](#use-cases)
 - [Technologies Used](#technologies-used)
 - [Data Description](#data-description)
@@ -13,18 +13,25 @@
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 ## Project Overview
-This project analyzes crop drought by leveraging satellite-based remote sensing data and processing it on the Google Earth Engine platform. The core of the analysis focuses on the computation of drought indices (VCI, TCI, and VHI) to visualize and quantify the extent of drought stress on crop vegetation. This project provides key insights for agricultural management, enabling decision-makers to detect early signs of drought stress and implement timely interventions.
+Urbanization has significant environmental impacts, one of which is the increase in Land Surface Temperature (LST). This project focuses on analyzing the changes in LST in Nagpur district, Maharashtra, over the past two decades, using satellite imagery from Landsat 5 and Landsat 8, along with NDVI and LST indices. The analysis leverages Remote Sensing and GIS techniques to study the correlation between urban growth and temperature rise.
 
-## Motivation
-With increased frequency of droughts due to climate change, it is critical to monitor crop health and prevent large-scale agricultural losses. Remote sensing data allows for real-time, large-scale monitoring of vegetation health, offering a reliable tool for detecting and mitigating the impact of drought on crop productivity. This project aims to support data-driven agricultural management through accessible and reliable drought monitoring techniques.
+## Objective
+The main objective of this project is to examine the impact of urbanization on LST in Nagpur district by:
+
+Analyzing NDVI and LST values over time.
+Correlating vegetation changes with temperature variation.
+Mapping LST variations across urban and rural areas.
 
 
-## Features
-- **Data Retrieval:** Uses Landsat 8 imagery and shapefiles to define the region of interest.
-- **Vegetation and Temperature Analysis:** Calculates NDVI-based VCI, LST-based TCI, and combined VHI for drought assessment.
-- **Map Visualization:** Displays drought indices on interactive maps for easy visualization.
-- **Data Export:** Exports analysis results (VCI, TCI, VHI) as GeoTIFF files.
-
+## Data and Methods
+### Data Sources
+Landsat 5 TM and Landsat 8 OLI/TIRS imagery for LST calculation.
+Shapefiles and TIF files for spatial analysis.
+### Methods Used
+LST Calculation: Uses DN (Digital Numbers) to Radiance conversion and Brightness Temperature calculation.
+NDVI Calculation: Utilizes Red and NIR bands to calculate vegetation index.
+Regression Analysis: Compares LST values across different years.
+GIS Mapping: Creates maps showing temperature variations.
 
 ## Use Cases
 - **Agricultural Monitoring**: Identifying drought-stressed regions in agricultural land for early intervention.
