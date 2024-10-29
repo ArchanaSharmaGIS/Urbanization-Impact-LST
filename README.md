@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objective](#objective)
-- [Data and Methods](#Data and methods)
+- [DataandMethods](#Data-and-methods).
 - [Use Cases](#use-cases)
 - [Technologies Used](#technologies-used)
 - [Data Description](#data-description)
