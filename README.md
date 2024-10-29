@@ -45,7 +45,8 @@ GIS Mapping: Creates maps showing temperature variations.
 
 ## Thematic Layer
 <img src="Images/NDVI1999.png" alt="Sample Screenshot" width="500">
-
+<img src="Images/NDVI2009.png" alt="Sample Screenshot" width="500">
+<img src="Images/NDVI2019.png" alt="Sample Screenshot" width="500">
 ## Data Description
 This project relies on the following data sources:
 - **Landsat 8 Surface Reflectance**: Provides spectral bands used for calculating NDVI.
