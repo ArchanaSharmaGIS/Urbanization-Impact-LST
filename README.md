@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objective](#objective)
-- [DataandMethods](#Data-and-methods).
+- [Data and Methods](#Data-and-methods).
 - [Use Cases](#use-cases)
 - [Technologies Used](#technologies-used)
 - [Data Description](#data-description)
@@ -18,9 +18,9 @@ Urbanization has significant environmental impacts, one of which is the increase
 ## Objective
 The main objective of this project is to examine the impact of urbanization on LST in Nagpur district by:
 
-Analyzing NDVI and LST values over time.
-Correlating vegetation changes with temperature variation.
-Mapping LST variations across urban and rural areas.
+-Analyzing NDVI and LST values over time.
+-Correlating vegetation changes with temperature variation.
+-Mapping LST variations across urban and rural areas.
 
 
 ## Data and Methods
