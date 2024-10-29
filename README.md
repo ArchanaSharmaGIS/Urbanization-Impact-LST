@@ -12,7 +12,7 @@
 - [Correlation between LST and NDVI](#Correlation-between-LST-and-NDVI)
 - [Land Use Land Cover](#land-use-land-cover)
 - [Results](#results)
-- [Acknowledgments](#acknowledgments)
+
 ## Project Overview
 Urbanization has significant environmental impacts, one of which is the increase in Land Surface Temperature (LST). This project focuses on analyzing the changes in LST in Nagpur district, Maharashtra, over the past two decades, using satellite imagery from Landsat 5 and Landsat 8, along with NDVI and LST indices. The analysis leverages Remote Sensing and GIS techniques to study the correlation between urban growth and temperature rise.
 
@@ -67,14 +67,8 @@ GIS Mapping: Creates maps showing temperature variations.
 This study provides insights into the effects of urbanization on LST in Nagpur over two decades. Below are some key findings:
 
 ### Key Findings
-NDVI vs. LST Analysis: NDVI values have shown a decline in green vegetation, while LST has increased, correlating with the urban expansion in Nagpur.<br>
-Regression Analysis: The correlation between NDVI and LST highlights the impact of vegetation loss on urban temperatures.
+-**NDVI vs. LST Analysis**: NDVI values have shown a decline in green vegetation, while LST has increased, correlating with the urban expansion in Nagpur.<br>
+-**Regression Analysis**: The correlation between NDVI and LST highlights the impact of vegetation loss on urban temperatures.
 
-### Sample Output:
-![Sample VHI Map](output/sample_vhi_map.png)
-## Acknowledgments
-- **Google Earth Engine**: For the platform and data access.
-- **Geemap Library**: For enabling visualization of results on interactive maps.
-- **Landsat Data**: Courtesy of the United States Geological Survey (USGS).
 
 
