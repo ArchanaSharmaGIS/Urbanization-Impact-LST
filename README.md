@@ -6,7 +6,7 @@
 - [Project Overview](#project-overview)
 - [Objective](#objective)
 - [Data and Methods](#Data-and-methods).
-- [Use Cases](#use-cases)
+- [Project Workflow](#Project-Workflow)
 - [Technologies Used](#technologies-used)
 - [Data Description](#data-description)
 - [Methodology](#methodology)
@@ -33,10 +33,8 @@ NDVI Calculation: Utilizes Red and NIR bands to calculate vegetation index.
 Regression Analysis: Compares LST values across different years.
 GIS Mapping: Creates maps showing temperature variations.
 
-## Use Cases
-- **Agricultural Monitoring**: Identifying drought-stressed regions in agricultural land for early intervention.
-- **Drought Assessment**: Provides critical data to aid in governmental and NGO drought relief efforts.
-- **Climate Research**: Analyzes the correlation between climate change and drought severity across different regions.
+## Project Workflow
+
 
 ## Technologies Used
 - **Google Earth Engine**: For satellite data processing and geospatial analysis.
