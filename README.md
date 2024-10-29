@@ -67,8 +67,8 @@ GIS Mapping: Creates maps showing temperature variations.
 This study provides insights into the effects of urbanization on LST in Nagpur over two decades. Below are some key findings:
 
 ### Key Findings
--**NDVI vs. LST Analysis**: NDVI values have shown a decline in green vegetation, while LST has increased, correlating with the urban expansion in Nagpur.<br>
--**Regression Analysis**: The correlation between NDVI and LST highlights the impact of vegetation loss on urban temperatures.
+**NDVI vs. LST Analysis**: NDVI values have shown a decline in green vegetation, while LST has increased, correlating with the urban expansion in Nagpur.<br>
+**Regression Analysis**: The correlation between NDVI and LST highlights the impact of vegetation loss on urban temperatures.
 
 
 
