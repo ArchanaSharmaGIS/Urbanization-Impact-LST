@@ -43,8 +43,8 @@ GIS Mapping: Creates maps showing temperature variations.
 
 
 
-## Technologies Used
-<img src="images/NDVI1999.png" alt="Sample Screenshot" width="400">
+## Thematic Layer
+<img src="Images/NDVI1999.png" alt="Sample Screenshot" width="400">
 
 ## Data Description
 This project relies on the following data sources:
