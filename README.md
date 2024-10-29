@@ -9,8 +9,7 @@
 - [Area Of Interest](#area-of-interest).
 - [Project Workflow](#Project-Workflow)
 - [Thematic Layer](#thematic-layer)
-- [Data Description](#data-description)
-- [Methodology](#methodology)
+- [Correlation between LST and NDVI](#Correlation-between-LST-and-NDVI)
 - [Results](#results)
 - [Acknowledgments](#acknowledgments)
 ## Project Overview
@@ -47,20 +46,11 @@ GIS Mapping: Creates maps showing temperature variations.
 <img src="Images/NDVI1999.png" alt="Sample Screenshot" width="500">
 <img src="Images/NDVI2009.png" alt="Sample Screenshot" width="500">
 <img src="Images/NDVI2019.png" alt="Sample Screenshot" width="500">
-## Data Description
-This project relies on the following data sources:
-- **Landsat 8 Surface Reflectance**: Provides spectral bands used for calculating NDVI.
-- **Landsat 8 Thermal Infrared**: Supplies the thermal data needed to compute the Temperature Condition Index.
 
-
-## Methodology
-This project calculates drought indices as follows:
-- **NDVI Calculation**: Normalized Difference Vegetation Index is derived from Landsat 8 to monitor vegetation health.
-- **VCI Calculation**: Vegetation Condition Index normalizes NDVI to indicate vegetation stress levels.
-- **TCI Calculation**: Temperature Condition Index normalizes land surface temperature (LST) to measure thermal stress on vegetation.
-- **LST Calculation**: Land Surface Temperature derived from thermal band.
-- **VHI Calculation**: Combines VCI and TCI to give an overall Vegetation Health Index, highlighting regions affected by both temperature and vegetation stress.
-- **DSI**: Drought Severity Index for evaluating drought conditions.
+## Correlation between LST and NDVI
+<img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
+<img src="Images/LST vs NDVI 2009.png" alt="Sample Screenshot" width="500">
+<img src="Images/LST vs NDVI 1999.png" alt="Sample Screenshot" width="500">
 
 ## Result
 - The outputs include GeoTIFF maps of VCI, TCI, and VHI for the specified region. Below is an example interpretation:
