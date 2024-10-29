@@ -8,7 +8,7 @@
 - [Data and Methods](#Data-and-methods).
 - [Area Of Interest](#area-of-interest).
 - [Project Workflow](#Project-Workflow)
-- [Technologies Used](#technologies-used)
+- [Thematic Layer](#thematic-layer)
 - [Data Description](#data-description)
 - [Methodology](#methodology)
 - [Results](#results)
@@ -41,11 +41,10 @@ GIS Mapping: Creates maps showing temperature variations.
 
 ![Workflow](Images/Workflow.png)
 
+
+
 ## Technologies Used
-- **Google Earth Engine**: For satellite data processing and geospatial analysis.
-- **Geemap**: Python package to interact with Google Earth Engine and visualize map outputs.
-- **Python**: Core programming language used for data processing and model computation.
-- **Landsat 8**: Source of high-resolution spectral data for vegetation and temperature analysis.
+<img src="images/NDVI1999.png" alt="Sample Screenshot" width="400">
 
 ## Data Description
 This project relies on the following data sources:
