@@ -34,6 +34,9 @@ NDVI Calculation: Utilizes Red and NIR bands to calculate vegetation index.
 Regression Analysis: Compares LST values across different years.
 GIS Mapping: Creates maps showing temperature variations.
 ## Area Of Interest
+<img src="Images/Area.png" alt="Sample Screenshot" width="500">
+
+
 ## Project Workflow
 
 
