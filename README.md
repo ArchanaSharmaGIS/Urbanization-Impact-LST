@@ -1,3 +1,4 @@
+
 # Urbanization-Impact-LST
 ## A study on the impact of urbanization on Land Surface Temperature (LST) over two decades in Nagpur District, Maharashtra, using Remote Sensing and GIS technology.
 
@@ -34,7 +35,7 @@ NDVI Calculation: Utilizes Red and NIR bands to calculate vegetation index.
 Regression Analysis: Compares LST values across different years.
 GIS Mapping: Creates maps showing temperature variations.
 ## Area Of Interest
-![Projectb Area](Images/Area.png)
+![Project Area](Images/Area.png)
 
 
 ## Project Workflow
